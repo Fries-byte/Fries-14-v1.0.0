@@ -4,6 +4,4 @@ https://fries-byte.github.io/Fries-14/
 
 
 
-
-
-F14 License 
+<!--  Fries=14 v1.1.0 | F14 License | github.com/fries-byte  --!>
